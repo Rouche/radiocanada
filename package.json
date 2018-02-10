@@ -1,0 +1,14 @@
+{
+  "name": "radiocanada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "browser-sync start --files \"src/**/*.html,src/**/*.css,src/**/*.js\" --server \"src\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.5"
+  }
+}
